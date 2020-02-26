@@ -1,5 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 1
+http://223.204.157.170:9981/stream/channelid/297977934?profile=pass
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/1582159649459.jpg" group-title="INDONESIA",RCTI
-https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 2
+http://223.204.157.170:9981/stream/channelid/1077232345?profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 3
+http://223.204.157.170:9981/stream/channelid/64137854?profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 4
+http://223.204.157.170:9981/stream/channelid/2101627866?profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 5
+http://223.204.157.170:9981/stream/channelid/446266454?profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS 6
+http://223.204.157.170:9981/stream/channelid/979307688?profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS HD
+http://223.204.157.170:9981/stream/channelid/368588665?profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET SPORTS PLUS
+http://223.204.157.170:9981/stream/channelid/125362447?profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",SKYNET sony six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",sony ten1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",sony ten2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",sony ten3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Suherman0303/jng/master/IMG_20200226_104547.jpg" group-title="SPORTS",BEIN SPORT1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
 
